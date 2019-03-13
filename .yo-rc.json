@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.myapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2MxZDgxNDkxOTg3NTZhODlkMjliMmYxZmViMDBkZGNmYWYyNWE0OTQxOThmNTMzZDM2OGJjYjQ2MDUyMTAzNDdiODExNmJlZWMyZmExYmU2ZGIzYjVmNzZiYjhjYWYxY2M1MTE0MDNmMjFkNDlkN2I1ZmZkM2E3MzE2ZDFjMzU=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
